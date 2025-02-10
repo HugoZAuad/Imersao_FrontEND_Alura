@@ -34,7 +34,7 @@ O arquivo `script.js` é responsável por buscar os dados dos artistas, filtrar 
 
 O JSON deve ter a seguinte estrutura:
 
-```json
+```json```
 [
   { "name": "Foo Fighters", "urlImg": "./src/assets/images/foo-fighters.jpg" },
   { "name": "Artista 2", "urlImg": "./src/assets/images/artista2.jpg" }
@@ -55,5 +55,3 @@ Sinta-se à vontade para contribuir com este projeto. Você pode abrir uma issue
 - **CSS**: Estiliza a página web.
 - **JavaScript**: Busca dados dos artistas, filtra os resultados e atualiza a interface do usuário.
 - **README.md**: Fornece uma visão geral do projeto, instruções de uso, estrutura do JSON, tecnologias utilizadas
-
-Espero que isso ajude a criar um `README.md` claro e informativo para o seu projeto!
