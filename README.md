@@ -55,3 +55,6 @@ Sinta-se à vontade para contribuir com este projeto. Você pode abrir uma issue
 - **CSS**: Estiliza a página web.
 - **JavaScript**: Busca dados dos artistas, filtra os resultados e atualiza a interface do usuário.
 - **README.md**: Fornece uma visão geral do projeto, instruções de uso, estrutura do JSON, tecnologias utilizadas
+
+## Deploy
+- https://spotify-imersao.netlify.app
